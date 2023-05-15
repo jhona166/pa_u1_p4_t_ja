@@ -14,8 +14,8 @@ public class PaU1P4TJaApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("Nuevo proyecto en Github");
-		System.out.println("Cambio en nueva branch");
+	
+		System.out.println("Cambio en nueva branch 1");
 	}
 
 }
